@@ -1,0 +1,13 @@
+Hola Soledad
+
+te cuento lo que hice
+
+1- cree una carpeta soledad
+2- entre en ella
+3- abri el git bash
+4- hice
+         git clone https://github.com/SOLCEDRO82/libro-git.git
+5- me aparecieron tus archivos
+6- y ahora estoy creando otro
+
+avísame si voy bien
