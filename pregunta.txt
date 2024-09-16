@@ -8,3 +8,9 @@ Había una pregunta del práctico que pedía los cambios entre la primera y la u
 esa no se como hacerla
 vos ???
 
+GIT DIFF nro_de_commit nro_de_commit
+te da la diferencia entre dos commit
+
+no se como hacer del primero al ultimo ???
+
+
