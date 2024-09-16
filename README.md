@@ -8,3 +8,5 @@ Para realizar prácticas de TIO
 
 ## Son jodidos, me hacen laburar un domingo.
 ![Fotito del horario](/foto-horario.png)
+
+## Cállate Matías , tardaste 2 semanas en hacer algo
