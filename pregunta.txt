@@ -1,0 +1,10 @@
+Hola Sole
+
+Estoy practicando un poco
+
+Pregunta ??? necesito saber GIT DIFF
+
+Había una pregunta del práctico que pedía los cambios entre la primera y la ultima versión el repositorio
+esa no se como hacerla
+vos ???
+
