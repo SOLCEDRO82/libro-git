@@ -1,3 +1,5 @@
-autor 
+Ejercicio para clonar a soledad y agregar autores
+
+autor:
 garayalejandro1966@gmail.com
 garay Alejandro Oscar
